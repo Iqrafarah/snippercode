@@ -159,20 +159,20 @@ h1 {
         max-width: 400px;
     }
     .intro-p {
-        margin-left: -180px;
+        margin-left: -140px;
         max-width: 300px;
     }
     .intro-btn {
-        margin-left: -120px;
+        margin-left: -100px;
     }
     .intro-img {
         display: none;
     }
     #about{
-        margin-left: -120px;
+        margin-left: -100px;
     }
     .about-img{
-        margin-left: 120px;
+        margin-left: 100px;
         margin-top: -700px;
         width: 300px;
         position: absolute;
@@ -185,7 +185,7 @@ h1 {
         max-width: 280px;
     }
     .footer-p{
-        margin-left: -900px;
+        margin-left: -880px;
         margin-top: 255px;
         overflow: hidden;
     }
